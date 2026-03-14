@@ -16,7 +16,8 @@ All QA testing materials such as:
 
 are available in the following Google Drive folder:
 
-https://drive.google.com/drive/folders/1jiZ8--rIxsR93Gq1YxttoFl0hmGOmCJA
+URL 1:  https://drive.google.com/drive/folders/1jiZ8--rIxsR93Gq1YxttoFl0hmGOmCJA
+URL 2:  https://drive.google.com/drive/folders/18HEbuiLpzdDZKFtnRykfxzWTch518SLQ
 
 ## Repository Structure
 
