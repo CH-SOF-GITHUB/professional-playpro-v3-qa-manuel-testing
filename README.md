@@ -4,14 +4,6 @@
 
 This repository contains QA testing artifacts for the **PlayPro V3 project**, including test reports, test cases, documentation, and supporting files used during manual and automation testing activities.
 
-## Test Environments
-
-**Front Office (FO)**
-https://chaker-qa-playpro.playpro.fr/
-
-**Back Office (BO)**
-https://chaker-qa-playpro-bo.playpro.fr/back-office/
-
 ## QA Documentation (Google Drive)
 
 All QA testing materials such as:
@@ -63,6 +55,14 @@ Automation/
 * Reservation rules
 * Promo codes
 
+## Test Environments
+
+**Front Office (FO)**
+https://chaker-qa-playpro.playpro.fr/
+
+**Back Office (BO)**
+https://chaker-qa-playpro-bo.playpro.fr/back-office/ 
+
 ## Author
 
-QA Tester – PlayPro V3 Testing Project
+QA Tester – Chaker Ben Said (bchaker28@yahoo.com)
