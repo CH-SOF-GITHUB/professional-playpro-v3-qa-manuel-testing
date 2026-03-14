@@ -15,9 +15,8 @@ All QA testing materials such as:
 * Excel and Word reports
 
 are available in the following Google Drive folder:
-
-URL 1:  https://drive.google.com/drive/folders/1jiZ8--rIxsR93Gq1YxttoFl0hmGOmCJA
-URL 2:  https://drive.google.com/drive/folders/18HEbuiLpzdDZKFtnRykfxzWTch518SLQ
+* https://drive.google.com/drive/folders/1jiZ8--rIxsR93Gq1YxttoFl0hmGOmCJA
+* https://drive.google.com/drive/folders/18HEbuiLpzdDZKFtnRykfxzWTch518SLQ
 
 ## Repository Structure
 
